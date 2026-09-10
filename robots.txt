@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alesgsi.github.io/esmi-bordados-site/sitemap.xml
